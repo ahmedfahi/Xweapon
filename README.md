@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="Xweapon" src="https://i.ibb.co/z6BN4Sv/Xw.png" class="center"></a>
+<a href="#"><img title="N00B H4CK3R " src="https://i.ibb.co/z6BN4Sv/Xw.png" class="center"></a>
 <p align="center">
 <a href="https://github.com/Ign0r3dH4x0r"><img title="Author" src="https://img.shields.io/badge/Author-Ign0r3d--H4x0r-red.svg?style=for-the-badge&logo=github"></a>
 </p>
